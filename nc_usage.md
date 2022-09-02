@@ -14,7 +14,7 @@
 
 > 攻击机位于局域网，靶机位于公网
 
-![Bind.png](/home/kali/Downloads/Bind.png)
+![Bind.png](https://github.com/khdxs7/steps-img/blob/main/BindShell.png)
 
 - 靶机监听端口
   
@@ -40,7 +40,7 @@
 
 > 攻击机位于公网，靶机位于局域网
 
-![Reverse.png](/home/kali/Downloads/Reverse.png)
+![Reverse.png](https://github.com/khdxs7/steps-img/blob/main/ReverseShell.png)
 
 - 攻击机监听端口
   
