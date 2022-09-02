@@ -14,7 +14,7 @@
 
 > 攻击机位于局域网，靶机位于公网
 
-![Bind.png](https://github.com/khdxs7/steps-img/blob/main/BindShell.png)
+![Bind.png](https://raw.githubusercontent.com/khdxs7/steps-img/main/BindShell.png)
 
 - 靶机监听端口
   
@@ -40,7 +40,7 @@
 
 > 攻击机位于公网，靶机位于局域网
 
-![Reverse.png](https://github.com/khdxs7/steps-img/blob/main/ReverseShell.png)
+![Reverse.png](https://raw.githubusercontent.com/khdxs7/steps-img/main/ReverseShell.png)
 
 - 攻击机监听端口
   
