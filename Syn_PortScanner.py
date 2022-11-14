@@ -32,7 +32,7 @@ def syn_scan(target_ip, start, end):
             c_open += 1
 
         # 如果返回值为Syn+Rst,则十六进制为0x14,十进制为20。说明该端口关闭
-        if int(a[TCP].flags) == 20:
+        elif int(a[TCP].flags) == 20:
             print("\033[1;37m[*]" + " " + str(port) + " 关闭 \033[0m")
             c_closed += 1
 
